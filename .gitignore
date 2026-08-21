@@ -30,7 +30,10 @@ $RECYCLE.BIN/
 .obsidian/switcher.json
 .obsidian/templates.json
 .obsidian/workspaces.json
-.obsidian/plugins/obsidian-git/
+.obsidian/plugins/obsidian-git/*.js
+.obsidian/plugins/obsidian-git/*.css
+.obsidian/plugins/obsidian-git/manifest.json
+.obsidian/plugins/obsidian-git/*.sh
 
 # PDFs (large files)
 *.pdf
