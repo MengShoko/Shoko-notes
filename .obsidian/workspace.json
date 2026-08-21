@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "4a66f8dc6bd343db",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ca9d015f53ba23e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de49bd8797f9a83c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5434f997407c7fdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c66efc5900ca7a28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a780b38dfe63c2ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9dbc1fcb35bd5d8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "17bb12156a1ee81e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "503adfdbeeed9f9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "734f67da5fe7c074",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f60fa138c3f5ada",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "5da5527894e1090e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名 1.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "09b9f588d6996527",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0eeefe118b407cfc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8537299047990281",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "42a40085244f8ad0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "publish:发布更改": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "de49bd8797f9a83c",
+  "lastOpenFiles": [
+    "2026-08-21.md",
+    "未命名 1.canvas",
+    "未命名 4.base",
+    "30_Resources/书籍/周志华-机器学习/模型评估原文笔记.md",
+    "30_Resources/书籍/周志华-机器学习/教材原文笔记.md",
+    "未命名.canvas",
+    "Assets/PDFs/机器学习 周志华.pdf",
+    "未命名 3.base",
+    "未命名 2.base",
+    "Assets/PDFs/理论力学（第2版）+(李俊峰+张雄)/理论力学（第2版） (李俊峰 张雄).zip",
+    "Assets/PDFs/理论力学（第2版）+(李俊峰+张雄)/1.png",
+    "Assets/PDFs/理论力学（第2版）+(李俊峰+张雄)/050.查看解压码领取说明.txt",
+    "Assets/PDFs/理论力学（第2版）+(李俊峰+张雄)/050.查看解压密码.html",
+    "Assets/PDFs/理论力学（第2版）+(李俊峰+张雄)",
+    "Assets/PDFs/理论力学（第2版）+(李俊峰+张雄).zip",
+    "On-policy与Off-policy的区别与统一.md",
+    "香农熵.md",
+    "未命名 1.base",
+    "Soft Actor-Critic   软演员-评论家算法.md",
+    "Pasted image 20260821172537.png",
+    "机器学习的分支.md",
+    "30_Resources/教程/Flow-Matching教程.md",
+    "30_Resources/书籍/理论力学/未命名.md",
+    "深度学习中Epoch、Batch以及Batch size的设定.md",
+    "Zettelkasten/书籍/机器学习-周志华.md",
+    "Zettelkasten/方法/k折交叉验证.md",
+    "Assets/PDFs/理论力学.md",
+    "_Meta/index.md",
+    "2026-08-20.md",
+    "Zettelkasten/概念/Flow-Matching.md",
+    "README.md",
+    "过拟合.md",
+    "泛化能力.md",
+    "_Meta/log.md",
+    "_Meta/SCHEMA.md",
+    "机器学习 周志华.md",
+    "机器学习 模型评估与选择.md",
+    "index.md",
+    "Pasted image 20260820145223.png",
+    "SCHEMA.md",
+    "Pasted image 20260820171417.png",
+    "Pasted image 20260820171342.png",
+    "Pasted image 20260820140815.png",
+    "Pasted image 20260820165202.png"
+  ]
+}

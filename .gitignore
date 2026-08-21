@@ -1,0 +1,39 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.sf
+
+# Obsidian specific
+.obsidian/workspace-*.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace-dawncopy.json
+.obsidian/canvas-*.canvas
+.obsidian/hotkeys.json
+.obsidian/plugins.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins-manifest.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/editor.json
+.obsidian/files.json
+.obsidian/graph.json
+.obsidian/switcher.json
+.obsidian/templates.json
+.obsidian/workspaces.json
+.obsidian/plugins/obsidian-git/
+
+# PDFs (large files)
+*.pdf
+
+# Images cache
+.cache/
