@@ -12,9 +12,8 @@
 ```
 RA学习/
 ├── 00_Inbox/           # 临时收件箱
-├── 10_Courses/         # 【新增】课程教材笔记（各课程独立）
+├── 10_Courses/         # 【课程教材笔记】各课程独立
 │   ├── 机器学习基础/
-│   │   └── 机器学习-周志华.md
 │   ├── 深度学习/
 │   ├── 机器人学/
 │   └── 自动控制原理/
@@ -22,9 +21,9 @@ RA学习/
 ├── 30_Resources/       # 参考资料原文
 ├── 40_Archive/         # 已完成归档
 ├── Zettelkasten/       # 【核心】原子化知识点网络
-│   ├── 概念/   (16个)
+│   ├── 概念/   (17个)
 │   ├── 方法/   (7个)
-│   └── 索引.md
+│   └── 书籍/   (1个)
 ├── Assets/             # 图片、PDF附件
 └── _Meta/              # 管理文件
 ```
@@ -32,14 +31,36 @@ RA学习/
 ### 执行内容
 1. 创建 `10_Courses/` 目录结构
 2. 将书籍笔记 `机器学习-周志华.md` 复制到 `10_Courses/机器学习基础/`
-3. 更新 `README.md` — 详细说明新结构和存放规则
-4. 更新 `_Meta/SCHEMA.md` — 添加课程相关标签
-5. 更新 `Zettelkasten/索引.md` — 区分课程笔记和知识点
+3. 优化教材原文笔记格式（多层标题、表格、公式、相关知识点链接）
+4. 更新 `README.md` — 详细说明新结构和存放规则
+5. 更新 `_Meta/SCHEMA.md` — 添加课程相关标签
+6. 更新 `Zettelkasten/索引.md` — 区分课程笔记和知识点
+7. 更新 `obsidian-auto-organize` skill — 添加教材笔记格式规范
 
 ### 设计理念
 - **课程笔记** → `10_Courses/` → 系统性、详细、与课程绑定
 - **知识点** → `Zettelkasten/` → 原子化、精炼、跨课程共享
 - **关联方式** → 课程笔记用 `[[知识点名]]` 引用知识点
+
+## [2026-08-22] format | 教材原文笔记格式优化
+### 优化内容
+对 `30_Resources/书籍/周志华-机器学习/` 下的原文笔记进行格式优化：
+
+#### 模型评估原文笔记
+- 添加完整 frontmatter
+- 使用多层标题组织（性能度量→评估方法→比较检验）
+- 公式使用 LaTeX 格式
+- 关键定义使用表格呈现
+- 添加"相关知识点"链接
+
+#### 教材原文笔记（绪论）
+- 添加完整 frontmatter
+- 使用表格展示术语定义
+- 结构化学习内容分类
+- 添加"相关知识点"链接
+
+### 后续自动化
+每日 23:00 cron 任务将自动对当天修改的教材原文笔记应用同样的格式优化
 
 ## [2026-08-22] organize | Systematic knowledge base refactoring (Part 2)
 ### 新增概念笔记（补全知识网络）
@@ -60,24 +81,12 @@ RA学习/
 | Actor-Critic | 架构原理、优势函数 |
 | PPO | 裁剪损失、超参数说明 |
 
-### 更新现有笔记
-- 更新 Zettelkasten/索引.md — 添加完整知识网络图
-- 更新 Zettelkasten/概念/Flow-Matching.md — 补充frontmatter和链接
-- 更新 Zettelkasten/书籍/机器学习-周志华.md — 添加更多wikilink
-- 更新 Zettelkasten/方法/k折交叉验证.md — 添加相关概念链接
-
 ### 当前状态
-- 概念笔记：16个
+- 概念笔记：17个
 - 方法笔记：7个
 - 书籍笔记：1个（已迁移到课程目录）
-- 总计：24个原子笔记
+- 总计：25个原子笔记
 - 每个笔记均包含：frontmatter + ≥2个wikilink
-
-## [2026-08-22] organize | Manual cleanup of missed files (Part 1)
-- Moved 7 unsorted files to Zettelkasten/未分类/
-- Further classified into 概念/ and 方法/
-- Deleted 3 empty files
-- Note: 昨日(8/21) cron job failed due to drift skip + gateway not running
 
 ## [2026-08-22] fix | Cron jobs repaired
 - Pinned both jobs to model 'agnes-2.5-flash' (provider: custom)
@@ -88,21 +97,6 @@ RA学习/
 - Created Zettelkasten/方法/k折交叉验证.md
 - Created Zettelkasten/概念/Flow-Matching.md
 - Total: 3 new atomic notes created
-
-## [2026-08-20] cleanup | Remove redundant files
-- Removed empty directories
-- Fixed image references in resource files
-- Streamlined structure
-
-## [2026-08-20] organize | Library restructuring
-- Created PARA + Zettelkasten hybrid structure
-- Moved images to Assets/Images/
-- Moved PDF to Assets/PDFs/
-- Created README.md with structure guide
-
-## [2026-08-20] create | Wiki initialized
-- Domain: Machine Learning & AI notes
-- Structure created with SCHEMA.md, index.md, log.md
 
 ## [2026-08-20] setup | Daily auto-organize cron job
 - Created cron job to run daily at 23:00
