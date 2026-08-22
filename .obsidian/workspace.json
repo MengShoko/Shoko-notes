@@ -11,17 +11,10 @@
             "id": "de49bd8797f9a83c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名 1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -205,15 +198,17 @@
   },
   "active": "de49bd8797f9a83c",
   "lastOpenFiles": [
-    "2026-08-21.md",
+    "Zettelkasten/方法/Soft Actor-Critic   软演员-评论家算法.md",
+    "未命名 3.base",
+    "未命名 2.base",
     "未命名 1.canvas",
+    "未命名 1.base",
+    "未命名.canvas",
+    "2026-08-21.md",
     "未命名 4.base",
     "30_Resources/书籍/周志华-机器学习/模型评估原文笔记.md",
     "30_Resources/书籍/周志华-机器学习/教材原文笔记.md",
-    "未命名.canvas",
     "Assets/PDFs/机器学习 周志华.pdf",
-    "未命名 3.base",
-    "未命名 2.base",
     "Assets/PDFs/理论力学（第2版）+(李俊峰+张雄)/理论力学（第2版） (李俊峰 张雄).zip",
     "Assets/PDFs/理论力学（第2版）+(李俊峰+张雄)/1.png",
     "Assets/PDFs/理论力学（第2版）+(李俊峰+张雄)/050.查看解压码领取说明.txt",
@@ -222,7 +217,6 @@
     "Assets/PDFs/理论力学（第2版）+(李俊峰+张雄).zip",
     "On-policy与Off-policy的区别与统一.md",
     "香农熵.md",
-    "未命名 1.base",
     "Soft Actor-Critic   软演员-评论家算法.md",
     "Pasted image 20260821172537.png",
     "机器学习的分支.md",
