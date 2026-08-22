@@ -1,7 +1,7 @@
 ---
 title: k折交叉验证
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-08-22
 type: method
 tags: [machine-learning, evaluation, cross-validation]
 sources: [30_Resources/书籍/周志华-机器学习/模型评估原文笔记.md]
@@ -50,3 +50,4 @@ confidence: high
 - [[机器学习-周志华]]
 - [[泛化能力]]
 - [[过拟合]]
+- [[机器学习的分支]]

@@ -2,28 +2,47 @@
 
 > Chronological record of all wiki actions.
 
+## [2026-08-22] organize | Systematic knowledge base refactoring (Part 2)
+### 新增概念笔记（补全知识网络）
+| 笔记 | 内容概要 |
+|------|---------|
+| 变分自编码器 VAE | ELBO、重参数化技巧、与GAN对比 |
+| 生成对抗网络 GAN | 对抗训练、损失函数、常见问题 |
+| 马尔可夫决策过程 MDP | 五元组定义、Bellman方程、价值函数 |
+| 激活函数 | ReLU、Sigmoid、Tanh、Softmax等 |
+| 损失函数 | MSE、交叉熵、Huber损失 |
+| 梯度下降 | BGD/SGD/Mini-batch、Adam优化器 |
+
+### 新增方法笔记
+| 笔记 | 内容概要 |
+|------|---------|
+| Q-learning | 经典off-policy算法、更新公式 |
+| 策略梯度 | REINFORCE算法、梯度公式 |
+| Actor-Critic | 架构原理、优势函数 |
+| PPO | 裁剪损失、超参数说明 |
+
+### 更新现有笔记
+- 更新 Zettelkasten/索引.md — 添加完整知识网络图
+- 更新 Zettelkasten/概念/Flow-Matching.md — 补充frontmatter和链接
+- 更新 Zettelkasten/书籍/机器学习-周志华.md — 添加更多wikilink
+- 更新 Zettelkasten/方法/k折交叉验证.md — 添加相关概念链接
+
+### 当前状态
+- 概念笔记：17个
+- 方法笔记：7个
+- 书籍笔记：1个
+- 总计：25个原子笔记
+- 每个笔记均包含：frontmatter + ≥2个wikilink
+
+## [2026-08-22] organize | Manual cleanup of missed files (Part 1)
+- Moved 7 unsorted files to Zettelkasten/未分类/
+- Further classified into 概念/ and 方法/
+- Deleted 3 empty files
+- Note: 昨日(8/21) cron job failed due to drift skip + gateway not running
+
 ## [2026-08-22] fix | Cron jobs repaired
 - Pinned both jobs to model 'agnes-2.5-flash' (provider: custom)
-- Started Hermes gateway (PID: 34692) — was previously not running
-- Jobs will now fire automatically:
-  - NJU工科资讯日报: daily at 22:00
-  - RA学习知识库每日整理: daily at 23:00
-
-## [2026-08-22] organize | Manual cleanup of missed files
-- Moved 7 unsorted files to Zettelkasten/未分类/
-- Files moved:
-  - On-policy与Off-policy的区别与统一.md
-  - Soft Actor-Critic 软演员-评论家算法.md
-  - 机器学习的分支.md
-  - 泛化能力.md
-  - 过拟合.md
-  - 香农熵.md
-  - 深度学习中Epoch、Batch以及Batch size的设定.md
-- Further classified:
-  - 方法: Soft Actor-Critic, Epoch/Batch设定
-  - 概念: On-policy/Off-policy, 香农熵
-  - 删除空文件: 泛化能力、过拟合、机器学习的分支
-- Note: 昨日(8/21) cron job failed due to drift skip + gateway not running
+- Started Hermes gateway (PID: 34692)
 
 ## [2026-08-20] create | Wiki pages
 - Created Zettelkasten/书籍/机器学习-周志华.md
