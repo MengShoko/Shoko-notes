@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7410162cd3a19725",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7994d62bc3a5e7e8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Assets/PDFs/机器学习 周志华.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "机器学习 周志华"
-            }
-          }
-        ]
-      },
-      {
         "id": "9ca9d015f53ba23e",
         "type": "tabs",
         "children": [
