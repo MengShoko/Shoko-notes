@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Monocular Camera 单目相机.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Monocular Camera 单目相机"
             }
           }
         ],
@@ -330,7 +330,7 @@
   "active": "bacd4a82b7771f39",
   "lastOpenFiles": [
     "VO 视觉里程计.md",
-    "未命名.md",
+    "Monocular Camera 单目相机.md",
     "VIO 视觉惯性里程计.md",
     "IMU 惯性测量单元.md",
     "MEMS 微机电系统.md",
