@@ -23,10 +23,14 @@
             "id": "6d4a3ce11a0b0492",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "10_Courses/机器人初级实践/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           },
           {
@@ -224,8 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d4a3ce11a0b0492",
+  "active": "a780b38dfe63c2ec",
   "lastOpenFiles": [
+    "10_Courses/机器人初级实践",
+    "10_Courses/机器人初级实践/未命名.md",
     "30_Resources/书籍/周志华-机器学习/二分类任务.md",
     "线性判别分析.md",
     "Assets/PDFs/机器学习 周志华.pdf",
@@ -265,7 +271,6 @@
     "Zettelkasten/方法/Actor-Critic.md",
     "Zettelkasten/概念/马尔可夫决策过程 MDP.md",
     "Zettelkasten/方法/策略梯度.md",
-    "Zettelkasten/方法/Q-learning.md",
     "未命名 1.canvas",
     "Assets/PDFs/理论力学（第2版）+(李俊峰+张雄)/1.png",
     "Pasted image 20260820145223.png",
