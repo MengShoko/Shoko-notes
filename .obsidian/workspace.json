@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UAV.md",
+                "file": "10_Courses/嵌入式系统/嵌入式系统概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UAV"
+              "title": "嵌入式系统概述"
             }
           },
           {
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -310,10 +310,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6db73b839b5254e9",
+  "active": "606e820263f89d90",
   "lastOpenFiles": [
-    "10_Courses/嵌入式系统/嵌入式系统概述.md",
+    "UAV.md",
     "Assets/PDFs/STM32嵌入式系统设计与应用.pdf",
+    "10_Courses/嵌入式系统/嵌入式系统概述.md",
     "未命名.md",
     "VIO 视觉惯性里程计.md",
     "10_Courses/嵌入式系统",
@@ -328,7 +329,6 @@
     "Zettelkasten/概念/变分自编码器 VAE.md",
     "GNSS拒止环境（GNSS-Denied）.md",
     "霍尼韦尔（Honeywell International）定义.md",
-    "UAV.md",
     "未命名.base",
     "线性判别分析.md",
     "理论力学Ⅰ(第8版) (哈尔滨工业大学理论力学教研室) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
