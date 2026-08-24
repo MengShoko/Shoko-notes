@@ -87,31 +87,6 @@
               "icon": "lucide-table",
               "title": "未命名 3"
             }
-          },
-          {
-            "id": "246aed90c4b53d12",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "未命名 2.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "未命名 2"
-            }
-          },
-          {
-            "id": "6db73b839b5254e9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Assets/PDFs/STM32嵌入式系统设计与应用.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "STM32嵌入式系统设计与应用"
-            }
           }
         ],
         "currentTab": 3
