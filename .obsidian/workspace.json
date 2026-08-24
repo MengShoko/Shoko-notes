@@ -144,9 +144,23 @@
               "icon": "lucide-file",
               "title": "Monocular Camera 单目相机"
             }
+          },
+          {
+            "id": "3593db8ee0dbc7f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binocular（Stereo）Camera 双目相机.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binocular（Stereo）Camera 双目相机"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -327,10 +341,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bacd4a82b7771f39",
+  "active": "3593db8ee0dbc7f6",
   "lastOpenFiles": [
-    "VO 视觉里程计.md",
     "Monocular Camera 单目相机.md",
+    "Binocular（Stereo）Camera 双目相机.md",
+    "VO 视觉里程计.md",
     "VIO 视觉惯性里程计.md",
     "IMU 惯性测量单元.md",
     "MEMS 微机电系统.md",
@@ -367,7 +382,6 @@
     "Pasted image 20260823195345.png",
     "2026-08-21.md",
     "30_Resources/教程/Flow-Matching教程.md",
-    "Zettelkasten/概念/Flow-Matching.md",
     "Pasted image 20260821172537.png",
     "未命名.canvas",
     "未命名 1.canvas",
