@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IMU 惯性测量单元.md",
+                "file": "Zettelkasten/概念/马尔可夫决策过程 MDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IMU 惯性测量单元"
+              "title": "马尔可夫决策过程 MDP"
             }
           }
         ],
@@ -286,11 +286,12 @@
   },
   "active": "14a7019047e9c75b",
   "lastOpenFiles": [
-    "MEMS 微机电系统.md",
+    "Zettelkasten/概念/变分自编码器 VAE.md",
+    "10_Courses/机器人初级实践/导览.md",
     "IMU 惯性测量单元.md",
+    "MEMS 微机电系统.md",
     "GNSS拒止环境（GNSS-Denied）.md",
     "GNSS.md",
-    "10_Courses/机器人初级实践/导览.md",
     "霍尼韦尔（Honeywell International）定义.md",
     "UAV.md",
     "未命名.base",
@@ -326,7 +327,6 @@
     "未命名.canvas",
     "Zettelkasten/概念/梯度下降.md",
     "Zettelkasten/概念/激活函数.md",
-    "Zettelkasten/概念/损失函数.md",
     "未命名 1.canvas",
     "Assets/PDFs/理论力学（第2版）+(李俊峰+张雄)/1.png",
     "Pasted image 20260820145223.png",
