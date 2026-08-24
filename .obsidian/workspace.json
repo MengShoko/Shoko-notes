@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/机器人初级实践/地面机器人实践/绪论.md",
+                "file": "10_Courses/嵌入式系统/嵌入式系统概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "绪论"
+              "title": "嵌入式系统概述"
             }
           },
           {
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "503adfdbeeed9f9d",
@@ -271,6 +272,8 @@
   },
   "active": "a29404e56a35acd8",
   "lastOpenFiles": [
+    "10_Courses/机器人初级实践/导览.md",
+    "10_Courses/机器人初级实践/地面机器人实践/绪论.md",
     "Zettelkasten/概念/未命名.md",
     "Zettelkasten/概念/嵌入式系统组成.md",
     "Zettelkasten/概念/霍尼韦尔.md",
@@ -287,7 +290,6 @@
     "Zettelkasten/概念/MMU 内存管理单元.md",
     "Zettelkasten/概念/UAV 无人机.md",
     "STM软硬件设计.md",
-    "10_Courses/机器人初级实践/地面机器人实践/绪论.md",
     "10_Courses/机器人初级实践/地面机器人实践",
     "10_Courses/机器人初级实践/未命名.md",
     "10_Courses/嵌入式系统/嵌入式系统概述.md",
@@ -300,7 +302,6 @@
     "Binocular（Stereo）Camera 双目相机.md",
     "10_Courses/机器学习基础/机器学习-周志华.md",
     "嵌入式系统组成.md",
-    "10_Courses/嵌入式系统/电子元件培训.md",
     "10_Courses/嵌入式系统",
     "未命名.base",
     "理论力学Ⅰ(第8版) (哈尔滨工业大学理论力学教研室) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
