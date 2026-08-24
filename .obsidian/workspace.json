@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/机器人初级实践/未命名.md",
+                "file": "10_Courses/机器人初级实践/导览.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "导览"
             }
           },
           {
@@ -228,10 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a780b38dfe63c2ec",
+  "active": "6d4a3ce11a0b0492",
   "lastOpenFiles": [
     "10_Courses/机器人初级实践",
-    "10_Courses/机器人初级实践/未命名.md",
+    "10_Courses/机器人初级实践/导览.md",
     "30_Resources/书籍/周志华-机器学习/二分类任务.md",
     "线性判别分析.md",
     "Assets/PDFs/机器学习 周志华.pdf",
