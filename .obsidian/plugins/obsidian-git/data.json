@@ -32,7 +32,7 @@
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
   "gitDir": "",
-  "showFileMenu": true,
+  "showFileMenu": false,
   "authorInHistoryView": "full",
   "dateInHistoryView": false,
   "diffStyle": "split",
