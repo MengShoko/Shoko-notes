@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/嵌入式系统/嵌入式系统入门.md",
+                "file": "10_Courses/嵌入式系统/电子元件培训.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "嵌入式系统入门"
+              "title": "电子元件培训"
             }
           },
           {
@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式系统组成.md",
+                "file": "10_Courses/嵌入式系统/嵌入式系统概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "嵌入式系统组成"
+              "title": "嵌入式系统概述"
             }
           },
           {
@@ -340,11 +340,12 @@
   },
   "active": "337741d6efc474ed",
   "lastOpenFiles": [
-    "10_Courses/嵌入式系统/嵌入式系统入门.md",
+    "10_Courses/机器学习基础/机器学习-周志华.md",
     "嵌入式系统组成.md",
+    "10_Courses/嵌入式系统/嵌入式系统概述.md",
+    "10_Courses/嵌入式系统/电子元件培训.md",
     "未命名 1.md",
     "10_Courses/机器学习基础/未命名.md",
-    "10_Courses/嵌入式系统/嵌入式系统概述.md",
     "10_Courses/机器人初级实践/导览.md",
     "UAV.md",
     "Assets/PDFs/STM32嵌入式系统设计与应用.pdf",
@@ -372,7 +373,6 @@
     "30_Resources/书籍/周志华-机器学习/模型评估.md",
     "30_Resources/书籍/周志华-机器学习/多元(Multi-variate)线性回归.md",
     "30_Resources/书籍/周志华-机器学习/极大似然法.md",
-    "30_Resources/书籍/理论力学/未命名.md",
     "Assets/PDFs/电路技术基础/电路 修订第5版 (邱关源) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "Assets/PDFs/工程力学基础/理论力学-清华 -- 李俊峰 -- 清华大学出版社 -- dac26c36df4481dec4799f2a5e33e964 -- Anna’s Archive.pdf",
     "Assets/PDFs/复变函数/复变函数与积分变换 第5版 (李红) (Z-Library).pdf",
