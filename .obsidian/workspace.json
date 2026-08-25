@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/机械设计基础实践/工程制图.md",
+                "file": "10_Courses/工程制图/走进工程制图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工程制图"
+              "title": "走进工程制图"
             }
           },
           {
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "503adfdbeeed9f9d",
@@ -286,8 +287,8 @@
   "active": "fcdd4d006d79b402",
   "lastOpenFiles": [
     "第0章 绪论.md",
-    "10_Courses/机械设计基础实践/工程制图.md",
-    "10_Courses/机械设计基础实践",
+    "10_Courses/工程制图/走进工程制图.md",
+    "10_Courses/工程制图",
     "10_Courses/机械设计基础/机械设计基础概论.md",
     "10_Courses/嵌入式系统/嵌入式系统概述.md",
     "驱动与传动  Drive&Transmission.md",
