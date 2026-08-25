@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/机械设计基础/未命名.md",
+                "file": "10_Courses/机械设计基础/机械设计基础概论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "机械设计基础概论"
             }
           },
           {
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "503adfdbeeed9f9d",
@@ -271,8 +272,9 @@
   },
   "active": "a29404e56a35acd8",
   "lastOpenFiles": [
+    "Assets/PDFs/机械设计基础/机械设计基础第七版 -- 杨可桢, 程光蕴, 李仲生, 钱瑞明 -- 2020 -- 北京：高等教育出版社 -- isbn13 9787040538212 -- 0af0791347ce012e5fae5ae21d8685a3 -- Anna’s Archive.pdf",
+    "10_Courses/机械设计基础/机械设计基础概论.md",
     "10_Courses/嵌入式系统/嵌入式系统概述.md",
-    "10_Courses/机械设计基础/未命名.md",
     "10_Courses/机械设计基础",
     "10_Courses/机器人初级实践/导览.md",
     "10_Courses/机器人初级实践/地面机器人实践/绪论.md",
@@ -301,7 +303,6 @@
     "Assets/PDFs/STM32嵌入式系统设计与应用.pdf",
     "MMU 内存管理单元.md",
     "Binocular（Stereo）Camera 双目相机.md",
-    "10_Courses/机器学习基础/机器学习-周志华.md",
     "10_Courses/嵌入式系统",
     "未命名.base",
     "理论力学Ⅰ(第8版) (哈尔滨工业大学理论力学教研室) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
