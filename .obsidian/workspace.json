@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "LDA的多分类推广.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "LDA的多分类推广"
             }
           },
           {
@@ -248,7 +248,7 @@
   "active": "0c08681010290b9b",
   "lastOpenFiles": [
     "30_Resources/书籍/周志华-机器学习/线性判别分析 LDA.md",
-    "未命名.md",
+    "LDA的多分类推广.md",
     "直线的矩阵表示.md",
     "拉格朗日算子法.md",
     "平面的矩阵表示.md",
