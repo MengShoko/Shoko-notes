@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/第0章 绪论.md",
+                "file": "10_Courses/机械设计基础/第0章 绪论.md",
                 "mode": "source",
                 "source": false
               },
@@ -286,6 +286,8 @@
   },
   "active": "c01a7641b72ab0cc",
   "lastOpenFiles": [
+    "10_Courses/机械设计基础/机械设计基础概论.md",
+    "10_Courses/机械设计基础/第0章 绪论.md",
     "点、直线、平面的投影.md",
     "驱动与传动  Drive&Transmission.md",
     "10_Courses/_课程笔记模板.md",
@@ -295,8 +297,6 @@
     "谐波减速器.md",
     "线性判别分析.md",
     "Assets/PDFs/机器学习 周志华.pdf",
-    "10_Courses/机械设计基础/机械设计基础概论.md",
-    "10_Courses/第0章 绪论.md",
     "10_Courses/工程制图",
     "10_Courses/嵌入式系统/嵌入式系统概述.md",
     "arXiv.org.md",
