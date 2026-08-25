@@ -117,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -298,10 +298,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcdd4d006d79b402",
+  "active": "247932ba3e6361cc",
   "lastOpenFiles": [
-    "谐波减速器.md",
     "第0章 绪论.md",
+    "谐波减速器.md",
     "10_Courses/机械设计基础/机械设计基础概论.md",
     "Assets/PDFs/机械设计基础/机械设计基础第七版 -- 杨可桢, 程光蕴, 李仲生, 钱瑞明 -- 2020 -- 北京：高等教育出版社 -- isbn13 9787040538212 -- 0af0791347ce012e5fae5ae21d8685a3 -- Anna’s Archive.pdf",
     "10_Courses/嵌入式系统/嵌入式系统概述.md",
