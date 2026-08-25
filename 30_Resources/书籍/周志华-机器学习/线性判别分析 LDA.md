@@ -6,3 +6,4 @@
 类间散度矩阵（between-class scatter matrix) 是分母上的矩阵
 LDA的目标即为最大化广义瑞利商（generalized Rayleigh quotient）
 
+由于ω的长度不影响结果，只是方向起作用，假设
