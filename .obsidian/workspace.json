@@ -11,12 +11,14 @@
             "id": "c01a7641b72ab0cc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Assets/PDFs/机械设计基础/机械设计基础第七版 -- 杨可桢, 程光蕴, 李仲生, 钱瑞明 -- 2020 -- 北京：高等教育出版社 -- isbn13 9787040538212 -- 0af0791347ce012e5fae5ae21d8685a3 -- Anna’s Archive.pdf"
+                "file": "30_Resources/书籍/周志华-机器学习/对率回归.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "机械设计基础第七版 -- 杨可桢, 程光蕴, 李仲生, 钱瑞明 -- 2020 -- 北京：高等教育出版社 -- isbn13 9787040538212 -- 0af0791347ce012e5fae5ae21d8685a3 -- Anna’s Archive"
+              "icon": "lucide-file",
+              "title": "对率回归"
             }
           },
           {
@@ -284,6 +286,9 @@
   },
   "active": "c01a7641b72ab0cc",
   "lastOpenFiles": [
+    "10_Courses/机器学习基础/机器学习-周志华.md",
+    "30_Resources/书籍/周志华-机器学习/对率回归.md",
+    "Assets/PDFs/机械设计基础/机械设计基础第七版 -- 杨可桢, 程光蕴, 李仲生, 钱瑞明 -- 2020 -- 北京：高等教育出版社 -- isbn13 9787040538212 -- 0af0791347ce012e5fae5ae21d8685a3 -- Anna’s Archive.pdf",
     "Assets/PDFs/机器学习 周志华.pdf",
     "10_Courses/机械设计基础/第0章 绪论.md",
     "10_Courses/机械设计基础/机械设计基础概论.md",
@@ -298,7 +303,6 @@
     "10_Courses/工程制图",
     "10_Courses/嵌入式系统/嵌入式系统概述.md",
     "arXiv.org.md",
-    "Assets/PDFs/机械设计基础/机械设计基础第七版 -- 杨可桢, 程光蕴, 李仲生, 钱瑞明 -- 2020 -- 北京：高等教育出版社 -- isbn13 9787040538212 -- 0af0791347ce012e5fae5ae21d8685a3 -- Anna’s Archive.pdf",
     "10_Courses/机械设计基础",
     "10_Courses/机器人初级实践/地面机器人实践/绪论.md",
     "Zettelkasten/概念/未命名.md",
@@ -312,7 +316,6 @@
     "Zettelkasten/概念/CISC与RISC.md",
     "Zettelkasten/概念/GNSS 全球导航卫星系统.md",
     "Zettelkasten/概念/VO 视觉里程计.md",
-    "Zettelkasten/概念/IMU 惯性测量单元.md",
     "10_Courses/机器人初级实践/地面机器人实践",
     "未命名 2.base",
     "未命名 3.base",
