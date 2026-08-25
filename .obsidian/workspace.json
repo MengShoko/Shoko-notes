@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "2dfa53073d0a4409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "类别不平衡.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "类别不平衡"
+            }
+          },
+          {
             "id": "03bc8b60b227551f",
             "type": "leaf",
             "state": {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -259,10 +273,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "101199bc89aac2bd",
+  "active": "2dfa53073d0a4409",
   "lastOpenFiles": [
-    "LDA的多分类推广.md",
     "多分类学习基本思路.md",
+    "类别不平衡.md",
+    "LDA的多分类推广.md",
     "30_Resources/书籍/周志华-机器学习/线性判别分析 LDA.md",
     "直线的矩阵表示.md",
     "拉格朗日算子法.md",
@@ -291,7 +306,6 @@
     "Zettelkasten/概念/未命名.md",
     "Zettelkasten/概念/嵌入式系统组成.md",
     "Zettelkasten/概念/霍尼韦尔.md",
-    "Zettelkasten/概念/STM32软硬件设计.md",
     "10_Courses/机器人初级实践/地面机器人实践",
     "未命名 2.base",
     "Assets/PDFs/STM32嵌入式系统设计与应用.pdf",
