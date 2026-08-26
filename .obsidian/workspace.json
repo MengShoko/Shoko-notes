@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/嵌入式系统/第一张 绪论/1.1嵌入式系统.md",
+                "file": "10_Courses/嵌入式系统/一、嵌入式系统概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1嵌入式系统"
+              "title": "一、嵌入式系统概述"
             }
           },
           {
@@ -272,10 +272,10 @@
   },
   "active": "6fb42e88691c15de",
   "lastOpenFiles": [
+    "10_Courses/嵌入式系统/第一张 绪论/1.1嵌入式系统.md",
+    "10_Courses/嵌入式系统/一、嵌入式系统概述.md",
     "10_Courses/嵌入式系统/第一张 绪论/1.2嵌入式系统的组成.md",
     "Pasted image 20260826220947.png",
-    "10_Courses/嵌入式系统/第一张 绪论/1.1嵌入式系统.md",
-    "10_Courses/嵌入式系统/嵌入式系统概述.md",
     "10_Courses/嵌入式系统/第一张 绪论",
     "10_Courses/嵌入式系统/未命名.md",
     "10_Courses/嵌入式系统/电子元件培训.md",
