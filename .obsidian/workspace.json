@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/嵌入式系统/嵌入式系统概述.md",
+                "file": "10_Courses/嵌入式系统/第一张 绪论/1.1嵌入式系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "嵌入式系统概述"
+              "title": "1.1嵌入式系统"
             }
           },
           {
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "503adfdbeeed9f9d",
@@ -259,8 +258,12 @@
   },
   "active": "0c08681010290b9b",
   "lastOpenFiles": [
-    "RTOS 实时操作系统.md",
     "10_Courses/嵌入式系统/嵌入式系统概述.md",
+    "10_Courses/嵌入式系统/第一张 绪论/1.1嵌入式系统.md",
+    "10_Courses/嵌入式系统/第一张 绪论",
+    "10_Courses/嵌入式系统/未命名.md",
+    "10_Courses/嵌入式系统/电子元件培训.md",
+    "RTOS 实时操作系统.md",
     "FPGA  现场可编程门阵列.md",
     "Assets/PDFs/嵌入式系统/STM32嵌入式系统设计与应用.pdf",
     "10_Courses/工程制图/走进工程制图.md",
@@ -275,12 +278,10 @@
     "10_Courses/未命名.md",
     "10_Courses/中国近代史纲领",
     "Zettelkasten/概念/强化学习.md",
-    "Assets/PDFs/电路技术基础/电路 修订第5版 (邱关源) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "30_Resources/书籍/周志华-机器学习/模型评估.md",
     "30_Resources/书籍/周志华-机器学习/教材原文笔记.md",
     "30_Resources/书籍/周志华-机器学习/极大似然法.md",
     "30_Resources/书籍/周志华-机器学习/多元(Multi-variate)线性回归.md",
-    "10_Courses/嵌入式系统/电子元件培训.md",
     "10_Courses/机械设计基础/机械设计基础概论.md",
     "10_Courses/机器学习基础/线性判别分析.md",
     "10_Courses/机器学习基础/线性模型.md",
@@ -293,8 +294,6 @@
     "Zettelkasten/概念/直线的矩阵表示.md",
     "Zettelkasten/概念/点、直线、平面的投影.md",
     "Zettelkasten/概念/协方差矩阵.md",
-    "Zettelkasten/概念/多分类学习基本思路.md",
-    "Zettelkasten/概念/驱动与传动.md",
     "Pasted image 20260823210928.png",
     "Pasted image 20260823195727.png",
     "Pasted image 20260823195345.png",
