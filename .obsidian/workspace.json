@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,10 +257,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed9e985449201b35",
+  "active": "0c08681010290b9b",
   "lastOpenFiles": [
-    "10_Courses/嵌入式系统/嵌入式系统概述.md",
     "RTOS 实时操作系统.md",
+    "10_Courses/嵌入式系统/嵌入式系统概述.md",
     "FPGA  现场可编程门阵列.md",
     "Assets/PDFs/嵌入式系统/STM32嵌入式系统设计与应用.pdf",
     "10_Courses/工程制图/走进工程制图.md",
