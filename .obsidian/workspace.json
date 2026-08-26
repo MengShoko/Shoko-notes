@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/嵌入式系统/一、嵌入式系统概述.md",
+                "file": "板级支持包 Board Support Package.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一、嵌入式系统概述"
+              "title": "板级支持包 Board Support Package"
             }
           },
           {
@@ -244,6 +244,8 @@
   },
   "active": "6fb42e88691c15de",
   "lastOpenFiles": [
+    "10_Courses/嵌入式系统/一、嵌入式系统概述.md",
+    "板级支持包 Board Support Package.md",
     "Zettelkasten/概念/RTOS 实时操作系统.md",
     "Zettelkasten/概念/FPGA 现场可编程门阵列.md",
     "Pasted image 20260826224534.png",
@@ -252,7 +254,6 @@
     "Pasted image 20260826222049.png",
     "Pasted image 20260826221949.png",
     "10_Courses/嵌入式系统/第一张 绪论/1.1嵌入式系统.md",
-    "10_Courses/嵌入式系统/一、嵌入式系统概述.md",
     "10_Courses/嵌入式系统/第一张 绪论/1.2嵌入式系统的组成.md",
     "Pasted image 20260826221750.png",
     "Pasted image 20260826220947.png",
@@ -286,7 +287,6 @@
     "Zettelkasten/方法/拉格朗日算子法.md",
     "直线的矩阵表示.md",
     "类别不平衡.md",
-    "Zettelkasten/概念/平面的矩阵表示.md",
     "Pasted image 20260823210928.png",
     "Pasted image 20260823195727.png",
     "Pasted image 20260823195345.png",
