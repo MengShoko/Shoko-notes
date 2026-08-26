@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Courses/中国近代史纲领/概论.md",
+                "file": "10_Courses/嵌入式系统/嵌入式系统概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "概论"
+              "title": "嵌入式系统概述"
             }
           },
           {
@@ -230,10 +230,12 @@
   },
   "active": "0c08681010290b9b",
   "lastOpenFiles": [
+    "Assets/PDFs/嵌入式系统/STM32嵌入式系统设计与应用.pdf",
+    "10_Courses/工程制图/走进工程制图.md",
+    "10_Courses/中国近代史纲领/概论.md",
     "Assets/PDFs/工程制图/现代工程图学 (穆浩志主编；柴富俊，张淑梅，王晓菲副主编) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "Assets/PDFs/工程制图/工程制图CAD计算机绘图指导教程 (穆浩志, 穆浩志主编, 穆浩志, Haozhi Mu) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "Assets/PDFs/电路技术基础/数字电子技术基础简明教程_第4版_(余孟尝，丁文霞，齐明)_(z-library.sk,_1lib.sk,_z-lib.sk) (1).pdf",
-    "10_Courses/中国近代史纲领/概论.md",
     "Assets/PDFs/中国近代史纲领/中国近现代史纲要 (2).pdf",
     "Assets/PDFs/中国近代史纲领/23新教材中国近代史纲要.pdf",
     "Assets/PDFs/中国近代史纲领",
@@ -252,7 +254,6 @@
     "10_Courses/机器学习基础/线性模型.md",
     "10_Courses/机器学习基础/线性回归模型变化.md",
     "10_Courses/机器学习基础/机器学习-周志华.md",
-    "10_Courses/工程制图/走进工程制图.md",
     "30_Resources/工具",
     "Zettelkasten/方法/拉格朗日算子法.md",
     "直线的矩阵表示.md",
@@ -265,7 +266,6 @@
     "Zettelkasten/概念/驱动与传动.md",
     "Zettelkasten/概念/拉格朗日算子法.md",
     "Zettelkasten/概念/arXiv.md",
-    "未命名 3.base",
     "Pasted image 20260823210928.png",
     "Pasted image 20260823195727.png",
     "Pasted image 20260823195345.png",
