@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,10 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "039109c85a4bdd1c",
+  "active": "0c08681010290b9b",
   "lastOpenFiles": [
-    "10_Courses/嵌入式系统/嵌入式系统概述.md",
     "FPGA  现场可编程门阵列.md",
+    "10_Courses/嵌入式系统/嵌入式系统概述.md",
     "Assets/PDFs/嵌入式系统/STM32嵌入式系统设计与应用.pdf",
     "10_Courses/工程制图/走进工程制图.md",
     "10_Courses/中国近代史纲领/概论.md",
