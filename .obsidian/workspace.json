@@ -25,14 +25,10 @@
             "id": "0c08681010290b9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LDA的多分类推广.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LDA的多分类推广"
+              "title": "新标签页"
             }
           },
           {
@@ -232,8 +228,12 @@
   },
   "active": "28dcb67d1da77e6c",
   "lastOpenFiles": [
-    "10_Courses/未命名.md",
     "10_Courses/中国近代史纲领/概论.md",
+    "Assets/PDFs/中国近代史纲领/中国近现代史纲要 (2).pdf",
+    "Assets/PDFs/中国近代史纲领/23新教材中国近代史纲要.pdf",
+    "Assets/PDFs/中国近代史纲领",
+    "Assets/PDFs/新建文件夹",
+    "10_Courses/未命名.md",
     "10_Courses/中国近代史纲领",
     "Zettelkasten/概念/强化学习.md",
     "Assets/PDFs/电路技术基础/电路 修订第5版 (邱关源) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
@@ -260,14 +260,9 @@
     "Zettelkasten/概念/驱动与传动.md",
     "Zettelkasten/概念/拉格朗日算子法.md",
     "Zettelkasten/概念/arXiv.md",
-    "Zettelkasten/概念/LDA的多分类推广.md",
     "未命名 3.base",
     "Assets/PDFs/机械设计基础/机械设计基础第七版 -- 杨可桢, 程光蕴, 李仲生, 钱瑞明 -- 2020 -- 北京：高等教育出版社 -- isbn13 9787040538212 -- 0af0791347ce012e5fae5ae21d8685a3 -- Anna’s Archive.pdf",
     "Assets/PDFs/机器学习 周志华.pdf",
-    "10_Courses/工程制图",
-    "10_Courses/机械设计基础",
-    "10_Courses/机器人初级实践/地面机器人实践",
-    "未命名 2.base",
     "Pasted image 20260823210928.png",
     "Pasted image 20260823195727.png",
     "Pasted image 20260823195345.png",
