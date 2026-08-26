@@ -39,10 +39,10 @@
             "id": "28dcb67d1da77e6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "503adfdbeeed9f9d",
@@ -229,10 +228,20 @@
   },
   "active": "28dcb67d1da77e6c",
   "lastOpenFiles": [
-    "30_Resources/工具",
-    "10_Courses/机器学习基础/线性回归模型变化.md",
-    "10_Courses/机器学习基础/线性模型.md",
+    "Zettelkasten/概念/强化学习.md",
+    "Assets/PDFs/电路技术基础/电路 修订第5版 (邱关源) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "30_Resources/书籍/周志华-机器学习/模型评估.md",
+    "30_Resources/书籍/周志华-机器学习/教材原文笔记.md",
+    "30_Resources/书籍/周志华-机器学习/极大似然法.md",
+    "30_Resources/书籍/周志华-机器学习/多元(Multi-variate)线性回归.md",
+    "10_Courses/嵌入式系统/电子元件培训.md",
+    "10_Courses/机械设计基础/机械设计基础概论.md",
     "10_Courses/机器学习基础/线性判别分析.md",
+    "10_Courses/机器学习基础/线性模型.md",
+    "10_Courses/机器学习基础/线性回归模型变化.md",
+    "10_Courses/机器学习基础/机器学习-周志华.md",
+    "10_Courses/工程制图/走进工程制图.md",
+    "30_Resources/工具",
     "Zettelkasten/方法/拉格朗日算子法.md",
     "直线的矩阵表示.md",
     "类别不平衡.md",
@@ -247,14 +256,6 @@
     "Zettelkasten/概念/LDA的多分类推广.md",
     "Zettelkasten/概念/类别不平衡.md",
     "Zettelkasten/概念/谐波减速器.md",
-    "多分类学习基本思路.md",
-    "LDA的多分类推广.md",
-    "30_Resources/书籍/周志华-机器学习/线性判别分析 LDA.md",
-    "拉格朗日算子法.md",
-    "平面的矩阵表示.md",
-    "10_Courses/机械设计基础/机械设计基础概论.md",
-    "谐波减速器.md",
-    "驱动与传动  Drive&Transmission.md",
     "未命名 3.base",
     "Assets/PDFs/机械设计基础/机械设计基础第七版 -- 杨可桢, 程光蕴, 李仲生, 钱瑞明 -- 2020 -- 北京：高等教育出版社 -- isbn13 9787040538212 -- 0af0791347ce012e5fae5ae21d8685a3 -- Anna’s Archive.pdf",
     "Assets/PDFs/机器学习 周志华.pdf",
@@ -263,8 +264,6 @@
     "10_Courses/机器人初级实践/地面机器人实践",
     "未命名 2.base",
     "Assets/PDFs/STM32嵌入式系统设计与应用.pdf",
-    "10_Courses/嵌入式系统",
-    "未命名.base",
     "Pasted image 20260823210928.png",
     "Pasted image 20260823195727.png",
     "Pasted image 20260823195345.png",
