@@ -39,13 +39,14 @@
             "id": "6fb42e88691c15de",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名 5.base",
-                "viewName": "表格"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名 5"
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
