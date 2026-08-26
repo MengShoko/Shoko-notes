@@ -211,7 +211,23 @@ RA学习/
 - 本地commit已创建：c0e4d6b（今日整理）
 - ⚠️ Push失败：GitHub连接超时，需手动重试或稍后重试
 
-### 今日额外工作（cron_86988f913b4b）
+|### 今日额外工作（cron_86988f913b4b）
 - 移动课程笔记：线性判别分析、线性模型、线性回归模型变化 → 10_Courses/机器学习基础/
 - 优化教材原文笔记：线性判别分析 LDA.md（添加frontmatter、表格、公式、相关知识点链接）
 - 更新Zettelkasten/索引.md
+
+## [2026-08-26] organize | Daily wiki cleanup and knowledge base update
+### 新整理文件（今日新增）
+1. **FPGA 现场可编程门阵列**
+   - 类型：知识点（概念笔记）
+   - 移动到：Zettelkasten/概念/
+   - 已添加 frontmatter 及跨链接
+   - 关联：[[CISC与RISC]]、[[STM32软硬件设计]]、[[嵌入式系统组成]]、[[MMU 内存管理单元]]
+
+2. **RTOS 实时操作系统**
+   - 类型：知识点（概念笔记）
+   - 移动到：Zettelkasten/概念/
+   - 已添加 frontmatter 及跨链接
+   - 关联：[[嵌入式系统组成]]、[[STM32软硬件设计]]、[[CISC与RISC]]
+
+3. **Zettelkasten/索引.md** — 更新嵌入式与硬件分类，新增FPGA、RTOS条目
