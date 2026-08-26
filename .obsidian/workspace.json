@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "039109c85a4bdd1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FPGA  现场可编程门阵列.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FPGA  现场可编程门阵列"
+            }
+          },
+          {
             "id": "28dcb67d1da77e6c",
             "type": "leaf",
             "state": {
@@ -48,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "503adfdbeeed9f9d",
@@ -228,8 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c08681010290b9b",
+  "active": "039109c85a4bdd1c",
   "lastOpenFiles": [
+    "10_Courses/嵌入式系统/嵌入式系统概述.md",
+    "FPGA  现场可编程门阵列.md",
     "Assets/PDFs/嵌入式系统/STM32嵌入式系统设计与应用.pdf",
     "10_Courses/工程制图/走进工程制图.md",
     "10_Courses/中国近代史纲领/概论.md",
@@ -254,7 +271,6 @@
     "10_Courses/机器学习基础/线性模型.md",
     "10_Courses/机器学习基础/线性回归模型变化.md",
     "10_Courses/机器学习基础/机器学习-周志华.md",
-    "30_Resources/工具",
     "Zettelkasten/方法/拉格朗日算子法.md",
     "直线的矩阵表示.md",
     "类别不平衡.md",
@@ -265,7 +281,6 @@
     "Zettelkasten/概念/多分类学习基本思路.md",
     "Zettelkasten/概念/驱动与传动.md",
     "Zettelkasten/概念/拉格朗日算子法.md",
-    "Zettelkasten/概念/arXiv.md",
     "Pasted image 20260823210928.png",
     "Pasted image 20260823195727.png",
     "Pasted image 20260823195345.png",
