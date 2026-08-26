@@ -39,10 +39,13 @@
             "id": "6fb42e88691c15de",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "bases",
+              "state": {
+                "file": "未命名 5.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名 5"
             }
           },
           {
@@ -222,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,6 +242,7 @@
   },
   "active": "6fb42e88691c15de",
   "lastOpenFiles": [
+    "未命名 5.base",
     "README.md",
     "30_Resources/书籍/周志华-机器学习/模型评估.md",
     "30_Resources/书籍/周志华-机器学习/线性判别分析 LDA.md",
@@ -282,7 +285,6 @@
     "Zettelkasten/概念/强化学习.md",
     "30_Resources/书籍/周志华-机器学习/极大似然法.md",
     "10_Courses/机械设计基础/机械设计基础概论.md",
-    "10_Courses/机器学习基础/线性判别分析.md",
     "Pasted image 20260823210928.png",
     "Pasted image 20260823195727.png",
     "Pasted image 20260823195345.png",
