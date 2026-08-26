@@ -14,6 +14,7 @@ $RECYCLE.BIN/
 *.sf
 
 # Obsidian specific
+.obsidian/workspace.json
 .obsidian/workspace-*.json
 .obsidian/workspace-mobile.json
 .obsidian/workspace-dawncopy.json
