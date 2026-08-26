@@ -25,16 +25,6 @@
             "id": "0c08681010290b9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "28dcb67d1da77e6c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "10_Courses/中国近代史纲领/概论.md",
@@ -44,9 +34,21 @@
               "icon": "lucide-file",
               "title": "概论"
             }
+          },
+          {
+            "id": "28dcb67d1da77e6c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Assets/PDFs/工程制图/现代工程图学 (穆浩志主编；柴富俊，张淑梅，王晓菲副主编) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "现代工程图学 (穆浩志主编；柴富俊，张淑梅，王晓菲副主编) (z-library.sk, 1lib.sk, z-lib.sk)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,8 +228,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28dcb67d1da77e6c",
+  "active": "0c08681010290b9b",
   "lastOpenFiles": [
+    "Assets/PDFs/工程制图/现代工程图学 (穆浩志主编；柴富俊，张淑梅，王晓菲副主编) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "Assets/PDFs/工程制图/工程制图CAD计算机绘图指导教程 (穆浩志, 穆浩志主编, 穆浩志, Haozhi Mu) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "Assets/PDFs/电路技术基础/数字电子技术基础简明教程_第4版_(余孟尝，丁文霞，齐明)_(z-library.sk,_1lib.sk,_z-lib.sk) (1).pdf",
     "10_Courses/中国近代史纲领/概论.md",
     "Assets/PDFs/中国近代史纲领/中国近现代史纲要 (2).pdf",
     "Assets/PDFs/中国近代史纲领/23新教材中国近代史纲要.pdf",
@@ -261,8 +266,6 @@
     "Zettelkasten/概念/拉格朗日算子法.md",
     "Zettelkasten/概念/arXiv.md",
     "未命名 3.base",
-    "Assets/PDFs/机械设计基础/机械设计基础第七版 -- 杨可桢, 程光蕴, 李仲生, 钱瑞明 -- 2020 -- 北京：高等教育出版社 -- isbn13 9787040538212 -- 0af0791347ce012e5fae5ae21d8685a3 -- Anna’s Archive.pdf",
-    "Assets/PDFs/机器学习 周志华.pdf",
     "Pasted image 20260823210928.png",
     "Pasted image 20260823195727.png",
     "Pasted image 20260823195345.png",
