@@ -1,4 +1,5 @@
 Metal-Oxide-Semiconductor Field-Effect Transistor，简称MOS管，它是目前应用最广泛的半导体器件，构成了从微处理器（CPU/GPU）到电源管理芯片的核心。
+[[IGBT 绝缘栅双极型晶体管]][[GTR 巨型晶体管]]
 ### 1. 核心结构与名称由来
 
 - **结构**：由**金属**（Gate，栅极）、**氧化物**（绝缘层，通常是 SiO₂）、**半导体**（Source/Drain，源极/漏极）三层结构组成。
