@@ -1,0 +1,1 @@
+Metal-Oxide-Semiconductor Field-Effect Transistor，简称MOS管，它是目前应用最广泛的半导体器件，构成了从微处理器（CPU/GPU）到电源管理芯片的核心。
