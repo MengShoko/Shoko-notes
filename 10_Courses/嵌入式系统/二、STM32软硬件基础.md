@@ -20,12 +20,7 @@ STM32F10x系列单片机基于ARM Cortex-M3内核，其结构特点为：
 13）USB：传输速率可达12Mbit/s。 
 14）SDIO：传输速率为48MHz。
 
-### STM的时钟树
-STM32系列微控制器中，有4个主要 时钟源，分别是：
-1 高速内部时钟 （High Speed Internal. HSI）
-2 高速外部时钟 （High Speed External，HSE） 
-3 低速内部时钟 （LowSpeed Internal. LSD 
-4 低速外部时钟  （LowSpeed External，LSE）
+
 
 ## 最小系统设计
 
@@ -36,3 +31,14 @@ STM32系列微控制器中，有4个主要 时钟源，分别是：
 时钟电路：为MCU提供所需的时钟信号
 复位电路：为MCU提供统一的初始状态
 ![[Pasted image 20260831141558.png]]
+STM32系列微控制器中，有4个主要 时钟源，分别是：
+1 高速内部时钟 （High Speed Internal. HSI）由芯片内部的RC振荡器提供，默认频率为16MHz
+2 高速外部时钟 （High Speed External，HSE）
+通过在OSC_IN和OSC_OUT引脚接入晶振实现，频率范围为4MHz-26MHz，也可以直接接入外部时钟信号，频率为1MHz-50MHz
+3 低速内部时钟 （LowSpeed Internal. LSD ）
+由芯片内部的RC振荡器提供，默认频率为32MHz
+4 低速外部时钟  （LowSpeed External，LSE）
+通过在OSC_IN和OSC_OUT引脚接入32.768KHz晶振实现
+![[Pasted image 20260831142035.png]]
+无源晶振：2个引脚；内部 无电源，需CPU内部振荡器 才能产生时钟信号；便宜 
+有源晶振：4个引脚；内部 有震荡电路，通电直接输出 时钟信号；稍贵
