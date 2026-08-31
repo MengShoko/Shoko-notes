@@ -54,6 +54,18 @@ X             0             主闪存存储器
 进行STM32F系列微控制器的程序开发需要搭建一个交叉开发环境， 其中包括计算机、开发软件、调试器、开发板或自己设计的电路板 （包括STM32F系列微控制器）
 ![[Pasted image 20260831142736.png]]
 调试器
-* （1）JLINK J-Link 是SEGGER 公司为支持 仿真ARM 内核芯片推出的JTAG 仿真器。是通用的开发工具，可 以用于KEIL ，IAR ，ADS 等平 台 速度，效率，功能均比 ULINK强。需要安装驱动。
+* （1）JLINK J-Link 是SEGGER 公司为支持 仿真ARM 内核芯片推出的[[JTAG]] 仿真器。是通用的开发工具，可 以用于KEIL ，IAR ，ADS 等平 台 速度，效率，功能均比 ULINK强。需要安装驱动。
 * （2）ULINK ULINK是KEIL公司开发的仿真器，专 用于KEIL MDK平台。在KEIL MDK平 台下无需驱动，可直接使用。
 * （3）STlink STLink 是ST 公司为STM8和 STM32系列MCU设计的调试 器。需要安装驱动，连接线有多种
+
+仿真驱动安装
+JLINK和 STLINK 是两种常用的用于调试和编程ARM微控制器的仿真器，它们都可以通过USB接口与电脑连接，实现对 目标芯片的内存、寄存器、外设等的访问和控制。
+ST-LINK 硬件主要由两部分组成： ST-LINK 主控板和连接线。 ST-LINK 主控板上有一个USB 接口，一个20 针JTAG/SWD 连接口和LED 指示灯。USB 接口用于连接电脑， JTAG/SWD 连接口用于连接芯片进行调试和编程。
+
+MDK 全称为Microcontroller Development Kit，即微控制器开发套 件。它源自Keil 公司（后被ARM 公司收购），现也称为MDK-ARM。 MDK-ARM 软件为基于Cortex-M、Cortex-R4、ARM7、ARM9 等 内核的处理器设备提供了一个完整的开发环境。
+
+STM32CubeMX 是一种图形化的配置工具，通过分步过程可以非常轻松地配置STM32 微控制 器和微处理器，以及为ARM Cortex-M 内核或面向ARM Cortex-A 内核的特定Linux 设备树 生成相应的初始化C代码
+
+软件开发
+STM32库是由ST公司针对STM32提供的函数接口，即API (Application Program Interface)， 开发者可调用这些函数接口来配置STM32的寄存器，使开发人员得以脱离最底层的寄存器操作， 有开发快速，易于阅读，维护成本低等优点。
+![[Pasted image 20260831143620.png]]
