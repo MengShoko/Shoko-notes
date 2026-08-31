@@ -9,7 +9,7 @@ confidence: high
 
 # MOSFET 金属-氧化物-半导体场效应晶体管
 
-**Metal-Oxide-Semiconductor Field-Effect Transistor**，简称MOS管，是目前应用最广泛的半导体器件，构成了从微处理器（CPU/GPU）到电源管理芯片的核心。
+**Metal-Oxide-Semiconductor Field-Effect Transistor**，==简称MOS管==，是目前应用最广泛的半导体器件，构成了从微处理器（CPU/GPU）到电源管理芯片的核心。
 
 ## 核心结构与名称由来
 
