@@ -15,7 +15,7 @@ $snap=d4pdt4snap=dt4d4p​$
 
 Minimum Snap 的目标函数为：
 
-$J=∫t0​tf​​(dt4d4p​)2dt$
+
 
 即让整条轨迹的 snap 平方积分最小，从而使运动尽可能"平滑"。
 
